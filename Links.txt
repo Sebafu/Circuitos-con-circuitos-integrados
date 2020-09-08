@@ -1,0 +1,5 @@
+Descripción:Este repositorio contiene 3 circuitos en modelados en Tinkercad, cada uno de ellos posee un circuito integrado diferente, estos son el 555, LM741 y L239D.
+LINKS:
+555:https://www.tinkercad.com/things/7IYNhV9oJbZ-copy-of-ejemplo-555/editel
+741:https://www.tinkercad.com/things/kA6TjDY7uXU-copy-of-ejemplo-amplificador-operacional-741-/editel
+L293D:https://www.tinkercad.com/things/5MWnWkzcNby-copy-of-control-de-motor-con-puente-en-h/editel
